@@ -182,9 +182,9 @@ prod_eks = EKSCluster("prod-cluster", network, node_count=3, node_instance_type=
 ```markdown
 ![Pulumi AWS Architecture](./images/architecture.png)
 ```
+🧑‍💻 Author
 
----
+Gaurav Singla
+DevOps & Cloud Automation Specialist
+💡 Building conscious systems with intelligent automation.
 
-
-
-```
